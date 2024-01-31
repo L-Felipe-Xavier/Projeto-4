@@ -1,4 +1,4 @@
-Entendi! Vamos integrar essas perguntas extras ao seu README:
+
 
 ---
 
