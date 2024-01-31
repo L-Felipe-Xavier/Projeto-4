@@ -1,7 +1,3 @@
-Entendi! Vamos integrar essas perguntas extras ao seu README:
-
----
-
 # Projeto 4 - Análise de Preços de Combustíveis
 
 ## Conteúdo do Projeto
